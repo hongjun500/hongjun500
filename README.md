@@ -1,5 +1,5 @@
 ### Hey, I'm [hongjun500](https://bhongjun500.com/)!
-[![hongjun500 github stats](https://github-readme-stats.vercel.app/api?username=hongjun500&show_icons=true&theme=radical&count_private=true)]
+[![hongjun500 github stats](https://github-readme-stats.hongjun500.vercel.app/api?username=hongjun500&show_icons=true&theme=radical&count_private=true)]
 <!--
 <a href="https://github.com/hongjun500/miaosha">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hongjun500&repo=miaosha" />
